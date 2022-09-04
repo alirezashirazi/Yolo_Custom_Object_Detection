@@ -1,4 +1,4 @@
 
-Yolo Custom Object Detection For Mask Detection with 2 class:
-1- Weare Mask
-2- Not Weare Mask
+YoloV3 Custom Object Detection For Mask Detection with 2 class:
+1- Wearing Mask
+2- Not Wearing Mask
